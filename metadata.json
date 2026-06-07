@@ -1,0 +1,6 @@
+{
+  "name": "Media Player",
+  "description": "A highly customizable Android Media Player with real-time theme builders, custom DSP Equalizers, gesture handlers, and technical Clean Architecture developer guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
